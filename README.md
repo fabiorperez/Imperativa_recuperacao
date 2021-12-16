@@ -1,2 +1,3 @@
 # Imperativa_recuperacao
-Trabalho de Imperativa Recuperacao de nota
+Segue os arquivos para analise.
+favor execultar primeiro o arquivo detalhe.js
